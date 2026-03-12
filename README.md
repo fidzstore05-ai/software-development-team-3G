@@ -3,9 +3,9 @@
 3G
 
 ## Nama Anggota :
-Agung Muhamad [2313020010] - Backend Developer (BE)
-Khafid Firdaus A.Y [2313020025] - Project Manager (PM)
-M Mario Rizal E [2313020029] - Frontend Developer (FE)
+1. Agung Muhamad [2313020010] - Backend Developer (BE)
+2. Khafid Firdaus A.Y [2313020025] - Project Manager (PM)
+3. M Mario Rizal E [2313020029] - Frontend Developer (FE)
 
 ## Mata Kuliah :
 Software Development
